@@ -1,26 +1,26 @@
 # Burger House Website
 
-A visually appealing and interactive website for a burger restaurant, designed using **HTML**, **CSS**, and **JavaScript**. It features smooth scroll animations powered by **ScrollReveal** to enhance user experience.
+An engaging, interactive website for a burger restaurant, built using HTML, CSS, and JavaScript. Designed to captivate users with smooth scroll animations powered by ScrollReveal, enhancing the browsing experience
 
-## Features
+## Key Features
 
-- Clean, modern design with responsive layout.
-- Animated transitions as users scroll through the content using ScrollReveal.
-- Menu section for displaying restaurant offerings.
-- Promotional banners and restaurant details.
+- Modern, sleek design with a responsive layout adaptable to all screen sizes.
+- Scroll-triggered animations to create a seamless, interactive flow as users explore the site.
+- Menu section showcasing the restaurant’s delicious offerings.
+- Promotional banners and essential restaurant information.
 
 ## Tech Stack
 
-- **HTML5**: Structuring the web pages.
-- **CSS3**: Styling and responsive design.
-- **JavaScript**: Interactive elements and animations.
-- **ScrollReveal**: Scroll-based animations for an engaging experience.
+**HTML5:** For structuring the web content.
+**CSS3:** For styling, layout, and responsive design adjustments.
+**JavaScript:** Adding interactive and dynamic elements.
+**ScrollReveal:** Bringing smooth, scroll-based animations for a lively user experience.
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vipulbeniwal01/BURGER-HOUSE-WEBSITE.git
+   git clone https://github.com/Sandeepkasana/BURGER-HOUSE-WEBSITE.git
 2. Open `index.html` in your browser to view the website.
 
 ## Demo
